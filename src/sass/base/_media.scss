@@ -1,0 +1,20 @@
+@media(max-width: 1200px) {
+
+}
+@media(max-width: 991px) {
+.container { 
+    padding: 0 20px; }
+.advantages__wrapper {
+    margin: 0 10px 0 10px;
+}
+}
+@media(max-width: 767px) {
+    .advantages__wrapper {
+        margin: 0 10px 0 10px;
+}    
+    .header__official {
+        display: none;}
+    a.header__phone {
+        font-size: 15px;
+    }
+}
